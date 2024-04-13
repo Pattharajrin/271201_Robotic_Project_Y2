@@ -17,3 +17,6 @@ Project "หุ่นยนต์เก็บลูกเทนนิส"
 
 
 ผลการทดลองล่าสุด "ยังไม่สามารถทำให้หุ่นใน gazebo อยู่จุดสมดุลได้ สันนิษฐานว่าน่าจะเป็นที่การตั้งค่า inertial"
+
+
+https://drive.google.com/drive/folders/10vsJuEaWKvX-jsaSckTTFI855xokPK6a?usp=sharing
